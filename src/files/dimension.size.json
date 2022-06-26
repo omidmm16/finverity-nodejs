@@ -1,0 +1,15 @@
+
+ {
+  "large": {
+    "width":2048,
+    "height":2048
+  },
+  "medium": {
+    "width":1024,
+    "height":1024
+  },
+  "thumb": {
+    "width":300,
+    "height":300
+  }
+}
